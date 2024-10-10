@@ -2,7 +2,7 @@
 function App() {
   return (
     <>
-      <h1>no ideas 😞</h1>
+      <h1>Vitalijus Stifanovicius</h1>
     </>
   )
 }
